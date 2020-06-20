@@ -25,4 +25,4 @@ print("Hello Class!!")
 [data](data)
 
 ## Image
-![image](royce_20200417.tif)
+![image](royce_20200417.tif?raw=true)
