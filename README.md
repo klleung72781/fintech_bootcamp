@@ -26,3 +26,4 @@ print("Hello Class!!")
 
 ## Image
 ![image](royce_20200417.tif?raw=true)
+![Baymax](Big-Hero-6-coloring-page-Baymax.jpg)
