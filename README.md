@@ -25,5 +25,5 @@ print("Hello Class!!")
 [data](data)
 
 ## Image
-![image](royce_20200417.tif?raw=true)
+![TIFF not shown in Chrome](royce_20200417.tif?raw=true)
 ![Baymax](Big-Hero-6-coloring-page-Baymax.jpg)
