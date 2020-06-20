@@ -21,3 +21,5 @@ print("Hello Class!!")
 
 ## File Structure
 [code](code)
+[reference](reference)
+[data](data)
