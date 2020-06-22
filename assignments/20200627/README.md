@@ -2,10 +2,10 @@
 
 ## Overview and Origin
 
-**Name of company**
+**Name of company**\
 Stripe
 
-**When was the company incorporated?**
+**When was the company incorporated?**\
 2010
 
 **Who are the founders of the company?**
@@ -37,7 +37,7 @@ Stripe is in the payments/billing domain while slowly moving into others like bu
 **What have been the major trends and innovations of this domain over the last 5-10 years?**
 Since the emergence of Stripe, a number of other companies armed with robust APIs have also appeared, rendering traditional (payment gateway) and alternative (PayPal) processors less and less popular.
 
-**What are the other major companies in this domain?**
+**What are the other major companies in this domain?**\
 Adyen, a dutch company with a much more international presence has also been making headways in the online payments domain.
 
 
