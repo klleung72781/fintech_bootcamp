@@ -28,7 +28,7 @@ Stripe's intended customers include eCommerce/retail, B2B platforms, SaaS compan
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing-- you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**\
 Stripe's core application is written in Ruby on Rails.  It also offers client libraries in the following languages.\
-![](client_libraries.png)
+![](client_libraries.jpg)
 
 ## Landscape:
 
