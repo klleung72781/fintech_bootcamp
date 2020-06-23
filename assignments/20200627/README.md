@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 **Name of company**\
-Stripe
+![Stripe](logo.jpg)
 
 **When was the company incorporated?**\
 2010
