@@ -27,7 +27,8 @@ The founders were "*really appalled by how hard it was to charge for things onli
 Stripe's intended customers include eCommerce/retail, B2B platforms, SaaS companies with size ranging from startups to large tech firms.  It is one of the very first online payment processing companies that rely heavily on APIs and SDKs available in various languages.  It also offers transparent pricing and a slew of other products, including fraud-detection, recurring billing.  Like many tech startups, a big reason for its success could also be attributed to first-mover advantage.
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing-- you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**\
-Stripe's core application is written in Ruby on Rails.
+Stripe's core application is written in Ruby on Rails.  It also offers client libraries in the following languages.\
+![](client_libraries.png)
 
 ## Landscape:
 
@@ -35,7 +36,7 @@ Stripe's core application is written in Ruby on Rails.
 Stripe is in the payments/billing domain while slowly moving into others like business lending via Atlas, personal/online banking via Monzo and Step.
 
 **What have been the major trends and innovations of this domain over the last 5-10 years?**\
-Since the emergence of Stripe, a number of other companies armed with robust APIs have also appeared, rendering traditional (payment gateway) and alternative (PayPal) processors less and less popular.
+Since the emergence of Stripe, a number of other companies armed with robust APIs have also appeared, rendering traditional (payment gateway) and alternative (PayPal) payment processors less and less popular.
 
 **What are the other major companies in this domain?**\
 Adyen, a dutch company with a much more international presence has also been making headways in the online payments domain.
@@ -44,9 +45,10 @@ Adyen, a dutch company with a much more international presence has also been mak
 ## Results
 
 **What has been the business impact of this company so far?**\
-Stripe has led the way for the popularization of payment APIs, allowing companies to minimize the 
+Stripe has led the way for the popularization of payment APIs, allowing companies to minimize unnecessary development resources to integrate with external payment processors.
 
-**What are some of the core metrics that companies in this domain use to measure success?How is your company performing, based on these metrics?**
+**What are some of the core metrics that companies in this domain use to measure success?How is your company performing, based on these metrics?**\
+
 
 **How is your company performing relative to competitors in the same domain?**
 
