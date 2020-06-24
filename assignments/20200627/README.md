@@ -48,9 +48,14 @@ Adyen, a dutch company with a much more international presence has also been mak
 Stripe has led the way for the popularization of payment APIs, allowing companies to minimize unnecessary development resources to integrate with external payment processors.
 
 **What are some of the core metrics that companies in this domain use to measure success?How is your company performing, based on these metrics?**\
+For any startup, valuation and online market share are 2 of the most critical success-measuring metrics.  In Stripe's case, it was valued at $20 billion in Sept 2018.\
+![](stripe_valuation.jpg)\
+Stripe's current market share is at an all-time high at 16.67%, 2nd only to PayPal's 56.69%.\
+![](market_share_vs_paypal.jpg)
 
 
-**How is your company performing relative to competitors in the same domain?**
+**How is your company performing relative to competitors in the same domain?**\
+Stripe has performed extremely well 
 
 
 ## Recommendations
