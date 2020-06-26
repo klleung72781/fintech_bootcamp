@@ -48,22 +48,30 @@ Adyen, a dutch company with a much more international presence has also been mak
 Stripe has led the way for the popularization of payment APIs, allowing companies to minimize unnecessary development resources to integrate with external payment processors.
 
 **What are some of the core metrics that companies in this domain use to measure success?How is your company performing, based on these metrics?**\
-For any startup, valuation and online market share are 2 of the most critical success-measuring metrics.  In Stripe's case, it was valued at $20 billion in Sept 2018.\
+For any startup, valuation and online market share are 2 of the most critical success-measuring metrics.  In Stripe's case, it was valued at $35 billion in Sept 2019.\
 ![](stripe_valuation.jpg)\
-Stripe's current market share is at an all-time high at 16.67%, 2nd only to PayPal's 56.69%.\
+Stripe's current online market share is at an all-time high at 16.67%, second only to PayPal's 56.69%.\
 ![](market_share_vs_paypal.jpg)
 
 
 **How is your company performing relative to competitors in the same domain?**\
-Stripe has performed extremely well 
+Stripe has performed extremely well and has been eating into PayPal's market shares in the last few years.
 
 
 ## Recommendations
 
-**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**\
+While Stripe has been growing as an extreme pace through its developer-centric approach, they've missed out on the small-business market due to the lack of user-interface based features.  Square on the other hand has the lion's share of this segment thanks to the free credit card reader.
 
-**Why do you think that offering this product or service would benefit the company?**
 
-**What technologies would this additional product or service utilize?**
+**Why do you think that offering this product or service would benefit the company?**\
+In addition to capturing the small business segment, a mobile POS system would also allow Stripe to offer a low-cost in-person payment system.  Research studies have estimated the retail POS terminals market to grow to $8 billion and software only makes up a small percentage of this market.
+![](pos_market.jpg)
 
-**Why are these technologies appropriate for your solution?**
+
+**What technologies would this additional product or service utilize?**\
+This requires Stripe to work with a hardware manufacturer to develop a mobile contactless reader and update its existing mobile app to allow a direct integration.
+
+
+**Why are these technologies appropriate for your solution?**\
+Contact-less/mobile payment is the future of retail commerce.  Tech conglomerates like Apple, Samsung and Google has invested very heavily in capturing this market.  If Stripe can create a tight integration with the platforms these companies offer it should allow it continue its growth.
