@@ -61,7 +61,7 @@ Stripe has performed extremely well and has been eating into PayPal's market sha
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**\
-While Stripe has been growing as an extreme pace through its developer-centric approach, they've missed out on the small-business market due to the lack of user-interface based features.  Square on the other hand has the lion's share of this segment thanks to the free credit card reader.
+While Stripe has been growing as an extreme pace through its developer-centric approach, they've missed out on the small-business market due to the lack of a competitive mobile POS solution.  Square on the other hand has the lion's share of this segment thanks to its free credit card reader.
 
 
 **Why do you think that offering this product or service would benefit the company?**\
@@ -70,8 +70,8 @@ In addition to capturing the small business segment, a mobile POS system would a
 
 
 **What technologies would this additional product or service utilize?**\
-This requires Stripe to work with a hardware manufacturer to develop a mobile contactless reader and update its existing mobile app to allow a direct integration.
+This requires Stripe to work with a hardware manufacturer to develop a mobile contactless reader and update its existing mobile app to add a payment capturing feature.
 
 
 **Why are these technologies appropriate for your solution?**\
-Contact-less/mobile payment is the future of retail commerce.  Tech conglomerates like Apple, Samsung and Google has invested very heavily in capturing this market.  If Stripe can create a tight integration with the platforms these companies offer it should allow it continue its growth.
+Contact-less/mobile payment is the future of retail commerce.  Tech conglomerates like Apple, Samsung and Google has invested very heavily in capturing this market.  Offering a tight integration with these platforms allow it to continue its growth.
