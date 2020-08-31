@@ -22,3 +22,4 @@
 * Split data into training (pre-2018) and testing (post-2018) datasets
 * Using sklearn's *Linear Regression* model to make predictions\
 !['regression_predictions'](./images/regression_predictions.PNG)
+* Since ***out-of-sample RMSE (0.4155)*** is lower than that of ***in-sample (0.5962)*** it performs a better prediction.
