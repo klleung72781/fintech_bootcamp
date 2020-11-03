@@ -45,9 +45,9 @@
     0xbdAf5A400121C69954d43EF5115B4A085547b8d6
     0x3541A93d2D5b589a6Afb5541155FC15C91FA2268
     ```
-    ![send_transaction](Screenshots\transaction.PNG)
+    ![send_transaction](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/transaction.PNG?raw=true)
  * Once submitted you should be able to check transaction status:
-![transaction_status](Screenshots\transaction_status.PNG)
+![transaction_status](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/transaction_status.PNG?raw=true)
 
 
 
