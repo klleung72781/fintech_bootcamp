@@ -8,7 +8,7 @@
     ![setup through puppeth](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/network18_puppeth.PNG?raw=true)
 ---
 
-3. To initialize the network, you'll need to run the following the command with the included [network18.json](./network18.json).
+3. To initialize the network, you'll need to run the following command with the included [network18.json](./network18.json).
     ```bash
     ./geth init network18.json --datadir {YOUR NODE NAME}
     ```
