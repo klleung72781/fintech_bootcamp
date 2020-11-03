@@ -5,7 +5,7 @@
 ---
 
 2. Network name: `network18`
-    ![setup through puppeth](Screenshots\network18_puppeth.PNG)
+    ![setup through puppeth](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/network18_puppeth.PNG?raw=true)
 ---
 
 3. To initialize the network, you'll need to run the following the command with the included [network18.json](./network18.json).
@@ -37,9 +37,9 @@
     * Currency = `ETH`
     * Chain ID = `30290`
     * URL = `http://127.0.0.1:8545/` ***http** is used instead of **https***
- ![change network](Screenshots\mycrypto_addcustomnode.PNG)
+ ![change network](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/mycrypto_addcustomnode.PNG?raw=true)
  * Once connected, access wallet via Keystore File => Select Wallet File (UTC file) => Enter password `727`
- ![keystore](Screenshots\keystore.PNG)
+ ![keystore](https://github.com/klleung72781/fintech_bootcamp/blob/master/python-homework/18-Blockchain/Screenshots/keystore.PNG?raw=true)
  * You should now be able to an account balance if your node has started mining.  You can now send a transaction to one of the existing nodes:
     ```bash
     0xbdAf5A400121C69954d43EF5115B4A085547b8d6
