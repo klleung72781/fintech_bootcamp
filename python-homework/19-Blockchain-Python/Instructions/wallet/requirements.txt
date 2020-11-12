@@ -1,0 +1,7 @@
+git clone https://github.com/dan-da/hd-wallet-derive
+cd hd-wallet-derive
+php -r "readfile('https://getcomposer.org/installer');" | php
+php -d pcre.jit=0 composer.phar install
+
+pip install bit
+pip install web3
