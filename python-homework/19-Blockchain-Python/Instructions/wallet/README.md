@@ -7,8 +7,13 @@
     * network ID: 5777
     * coin: ETH
     !['ganache'](.\Screenshots\ganache.png)
+---
 
-2. The [wallet.py](wallet.py) file supports the following coins:\
-| First Header | Second Headermd |
-| ------------ | ------------- |
-| First Header | Second Headermd |
+2. The [wallet.py](wallet.py) file supports the following coins:
+    | Coin | Symbol | Global Variable |
+    | --- | --- | --- |
+    | Ethereum | `eth` | `ETH` |
+    | Bitcoin Testnet | `btc-test` | `BTCTEST` |
+---
+
+3. To send a transaction
