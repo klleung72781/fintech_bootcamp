@@ -6,7 +6,7 @@
     * url: http://127.0.0.1:7545
     * network ID: 5777
     * coin: ETH
-    !['ganache'](Screenshots\ganache.png)
+    !['ganache'](Screenshots/ganache.png)
 ---
 
 2. The [wallet.py](wallet.py) file supports the following coins:
