@@ -18,7 +18,7 @@
 
 3. To send a transaction, fire up an Anaconda prompt and navigate to wallet folder.\
     `python` + <kbd>enter</kbd>\
-    ![python+enter](Screenshots\python+enter.PNG)
+    ![python+enter](Screenshots/python+enter.PNG)
     `from wallet import *` + <kbd>enter</kbd>\
     ![import_wallet](Screenshots\import_wallet.PNG)
     At this point you can send transaction using the following command\
