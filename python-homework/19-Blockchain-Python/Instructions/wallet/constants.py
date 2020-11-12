@@ -1,3 +1,3 @@
-  BTC = 'btc'
-  ETH = 'eth'
-  BTCTEST = 'btc-test'
+BTC = 'btc'
+ETH = 'eth'
+BTCTEST = 'btc-test'
