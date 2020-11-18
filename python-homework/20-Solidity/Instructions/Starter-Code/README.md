@@ -30,13 +30,13 @@ My public address is `0x1F4F1CDf9d050d7f8052d631399a28d605274328`.
 3. To execute transaction within a contract it needs to be expanded to expose the internal functions.
 
     a. `AssociateProfitSplitter.sol`
-        ![level1_deployed](Screenshots/level1_deployed.png)
+        ![level1_deployed](Screenshots/level1_deployed.PNG)
 
     b. `TieredProfitSplitter.sol`
-        ![level2_deployed](Screenshots/level2_deployed.png)
+        ![level2_deployed](Screenshots/level2_deployed.PNG)
 
     c. `DeferredEquityPlan.sol`
-        ![level3_deployed](Screenshots/level3_deployed.png)
+        ![level3_deployed](Screenshots/level3_deployed.PNG)
 
 ---
 
