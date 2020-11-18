@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.5;
 
 // lvl 2: tiered split
 contract TieredProfitSplitter {
@@ -22,13 +22,19 @@ contract TieredProfitSplitter {
         uint total;
         uint amount;
 
-        // @TODO: Calculate and transfer the distribution percentage
-        // Step 1: Set amount to equal `points` * the number of percentage points for this employee
-        // Step 2: Add the `amount` to `total` to keep a running total
-        // Step 3: Transfer the `amount` to the employee
+        // Calculate and transfer the distribution percentage
+        amount = points * 60;
+        total += amount;
+        employee_one.transfer(amount);
 
-        // @TODO: Repeat the previous steps for `employee_two` and `employee_three`
-        // Your code here!
+        // Repeat the previous steps for `employee_two` and `employee_three`
+        amount = points * 25;
+        total += amount;
+        employee_two.transfer(amount);
+
+        amount = points * 15;
+        total += amount;
+        employee_three.transfer(amount);
 
         employee_one.transfer(msg.value - total); // ceo gets the remaining wei
     }
