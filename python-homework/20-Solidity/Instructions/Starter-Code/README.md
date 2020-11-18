@@ -5,7 +5,7 @@
 
 1. First switch to the [Kovan Testnet](https://kovan-testnet.github.io/website/) on MetaMask.\
 My public address is `0x1F4F1CDf9d050d7f8052d631399a28d605274328`.
-    ![metamask_kovan](Screenshots/metamask_kovan.png)
+    ![metamask_kovan](Screenshots/metamask_kovan.PNG)
 
 ---
 
